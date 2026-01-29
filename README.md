@@ -1,16 +1,18 @@
-## Hi there 👋
+# RentOutPK
 
-<!--
-**rentoutpk/rentoutpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RentOutPK is a Pakistan-first rentals marketplace for properties and vehicles. This repository describes the product, vision, and ways to connect.
 
-Here are some ideas to get you started:
+Website: [https://rentout.pk](https://rentout.pk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who this is for
+
+* Renters looking for verified homes, stays, or vehicles
+* Hosts and small businesses who want a clear way to list and manage rentals
+
+## Key features
+
+* Listings for properties and vehicles with images and clear descriptions
+* Map-based discovery and simple booking flow
+* Identity verification and transaction receipts
+* Host dashboard for bookings, calendar, and earnings
+* Admin tools for verification and dispute handling
